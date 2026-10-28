@@ -8,7 +8,7 @@ const cover = {url: "/assets/cover.jpg"};
 const page13 = {url: "/assets/page13.jpg"};
 const page55 = {url: "/assets/page55.jpg"};
 
-const CHECKOUT = "#offer";
+const CHECKOUT = "https://pay.hotmart.com/B108221222R?checkoutMode=10";
 const PRICE = "5.90";
 const FROM = "25.00";
 
@@ -311,6 +311,7 @@ export default function Index() {
     </main>
   );
 }
+
 
 
 
